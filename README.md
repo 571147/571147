@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [571147](https://github.com/571147)
+- 👋 Hi, I’m @[571147](https://github.com/571147)
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning ST & BIT & DP
 - 💞️ I’m looking to collaborate on [Luogu](https://www.luogu.com.cn/user/571147)
